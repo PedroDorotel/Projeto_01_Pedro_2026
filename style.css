@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+#fogao{
+    width: 500px;
+    margin-left: 35%;
+    border-radius: 15%;
+    border-color: rgb(230, 245, 27);
+    border-width: 10px;
+    border-style: groove;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 300%;
+}
+h2{
+    text-align: center;
+    color: rgb(4, 151, 48);
+    font-size: 250%;
+    border-width: 5px;
+    border-color: rgb(24, 204, 18);
+    border-style: double;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h3{
+    text-align: center;
+    font-size: 225%;
+    color: rgb(177, 175, 49);
+}
+h4{
+    text-align: center;
+    font-size: 150%;
+}
